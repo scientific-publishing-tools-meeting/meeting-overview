@@ -12,7 +12,7 @@ This meeting is funded by the Meeting Fund of The Navigation Fund Open Science P
 
 ## Logistics
 
-**Dates:** November 6-9th
+**Dates:** November 6-9th  
 **Location:** San Diego, CA, USA
 
 Through the Navigation Fund support, travel and lodging for this meeting will be covered.
