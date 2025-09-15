@@ -31,5 +31,14 @@ Two and a half day, in person implementation meeting. This group  of developers 
 1pm - 4:30pm: Small group discussions or beginning of exploring code together.   
 4:30-5pm: Lightning demos of what people are working on.  
 5-7pm: Rest and Dinner.  
-7-9pm: Informal hacker time. Time to work on some things together, or continue discussions or exploration. | something | something | 
+7-9pm: Informal hacker time. Time to work on some things together, or continue discussions or exploration.  
+| 9am-10am: Recap from the previous day. What came up that we need to discuss or resolve?   
+10am-11:30am: Have discussion or work based on areas of friction, frustration, tension or disagreement that we observed.  
+11:30-12:00pm Lightning demos of what people are working on.  
+12-3: Lunch and hike or do other outdoor thing together  
+3-5pm: Break into areas of agreement where we can move forward and areas of disagreement where we’ll still need to discuss, code or explore.  
+5-7pm: Rest and Dinner.  
+7-9pm: Informal hacker time and demos.  
+| 9-10:30am: Demo and discuss where we are  
+10:30-12pm: Plan next steps and areas where we’ll communicate with each other  | 
 
