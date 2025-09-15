@@ -25,6 +25,7 @@ Scientific content remains trapped in static formats that limit reuse, attributi
 Two and a half day, in person implementation meeting. This group  of developers will convene for 2.5 days in a facilitated meeting with the following structure.
 
 | Day 1 | Day 2 | Day 3 |
+-------------------------
 | 9am - 12pm: The first half day of the meeting will focus on discussion, following from our virtual meeting, identifying where there are coordinated development opportunities and small groups who will work together.  
 12-1pm: Lunch  
 1pm - 4:30pm: Small group discussions or beginning of exploring code together.   
