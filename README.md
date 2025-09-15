@@ -19,3 +19,16 @@ Through the Navigation Fund support, travel and lodging for this meeting will be
 
 ## Abstract
 Scientific content remains trapped in static formats that limit reuse, attribution, and machine readability, despite the availability of modern tooling that makes this possible and better matches how scientists conduct research. This initiative, led by openRxiv and Continuous Science Foundation, addresses this challenge through practical implementation rather than consensus-driven standardization. The project will convene developers of leading modular publishing tools—MyST, Quarto, Curvenote, and Kotahi—to create a working, federated reference architecture using real bioRxiv content and deploying through the newly created openRxiv labs. Through a facilitated virtual meeting followed by a 2.5-day in-person implementation sprint, participants will develop shared interoperability standards and demonstrate live reuse of scientific content. Following the successful ipynb model, the approach prioritizes working software over abstract frameworks. Key deliverables include a reference implementation demonstrating cross-platform interoperability, pilot deployments using bioRxiv articles, progress updates at the CZI Open Science Meeting, and adoption materials for publishers and platforms. This implementation-first approach represents a concrete step toward modular publishing that meets current needs while preparing for the LLM era.
+
+## Tentative program for in-person meeting
+
+Two and a half day, in person implementation meeting. This group  of developers will convene for 2.5 days in a facilitated meeting with the following structure.
+
+| Day 1 | Day 2 | Day 3 |
+| 9am - 12pm: The first half day of the meeting will focus on discussion, following from our virtual meeting, identifying where there are coordinated development opportunities and small groups who will work together.  
+12-1pm: Lunch  
+1pm - 4:30pm: Small group discussions or beginning of exploring code together.   
+4:30-5pm: Lightning demos of what people are working on.  
+5-7pm: Rest and Dinner.  
+7-9pm: Informal hacker time. Time to work on some things together, or continue discussions or exploration. | something | something | 
+
