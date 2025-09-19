@@ -12,7 +12,7 @@ This meeting is funded by the Meeting Fund of The Navigation Fund Open Science P
 
 ## Logistics
 
-**Dates:** November 6-9th  
+**Dates:** November 6-8th  
 **Location:** San Diego, CA, USA
 
 Through the Navigation Fund support, travel and lodging for this meeting will be covered.
@@ -24,7 +24,7 @@ Scientific content remains trapped in static formats that limit reuse, attributi
 
 Two and a half day, in person implementation meeting. This group  of developers will convene for 2.5 days in a facilitated meeting with the following structure.
 
-**Day 1**  
+**Day 1 — Nov 6**  
 9am - 12pm: The first half day of the meeting will focus on discussion, following from our virtual meeting, identifying where there are coordinated development opportunities and small groups who will work together.  
 12-1pm: Lunch  
 1pm - 4:30pm: Small group discussions or beginning of exploring code together.   
@@ -32,7 +32,7 @@ Two and a half day, in person implementation meeting. This group  of developers 
 5-7pm: Rest and Dinner.  
 7-9pm: Informal hacker time. Time to work on some things together, or continue discussions or exploration. 
 
-**Day 2**  
+**Day 2 — Nov 7**  
 9am-10am: Recap from the previous day. What came up that we need to discuss or resolve?   
 10am-11:30am: Have discussion or work based on areas of friction, frustration, tension or disagreement that we observed.  
 11:30-12:00pm Lightning demos of what people are working on.  
@@ -41,7 +41,7 @@ Two and a half day, in person implementation meeting. This group  of developers 
 5-7pm: Rest and Dinner.  
 7-9pm: Informal hacker time and demos. 
 
-**Day 3**  
+**Day 3 — Nov 8**  
 9-10:30am: Demo and discuss where we are  
-10:30-12pm: Plan next steps and areas where we’ll communicate with each other  | 
+10:30-12pm: Plan next steps and areas where we’ll communicate with each other
 
