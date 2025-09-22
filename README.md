@@ -61,6 +61,7 @@ Participants confirmed for the meeting so far.
 | Kevin-John Black | bioRxiv/openRxiv |
 | Matt Akamatsu	|	DiscourseGraphs |
 | Michael Markie | eLife |
+| Milton Pividori | University of Colorado Anschutz Medical Campus |
 | Monica Granados |	Creative Commons |
 | Nokome Bentley | Stencila |
 | Paul Shannon | eLife |
