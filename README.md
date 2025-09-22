@@ -51,7 +51,7 @@ Participants confirmed for the meeting so far.
 
 | Name | Organization | 
 | --- | --- |
-| Adam Hyde	| Coko/Katahi |
+| Adam Hyde	| Coko/Kotahi|
 | Agah Karakuzu	| NeuroLibre |
 | Carlos Scheidegger | Quarto/Posit |
 | Chris Wilkinson	| PreReview |
