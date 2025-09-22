@@ -45,3 +45,45 @@ Two and a half day, in person implementation meeting. This group  of developers 
 9-10:30am: Demo and discuss where we are  
 10:30-12pm: Plan next steps and areas where we’ll communicate with each other
 
+## Partcipants
+
+Participants confirmed for the meeting so far.
+
+| Name | Organization | 
+| --- | --- |
+| Adam Hyde	| Coko/Katahi |
+| Agah Karakuzu	| NeuroLibre |
+| Carlos Scheidegger | Quarto/Posit |
+| Chris Wilkinson	| PreReview |
+| Franklin Koch	|	Curvenote, Jupyter |
+| Jason Priem | OpenAlex |
+| John Bohannon	| alphaXiv |
+| Kevin-John Black | bioRxiv/openRxiv |
+| Matt Akamatsu	|	DiscourseGraphs |
+| Michael Markie | eLife |
+| Monica Granados |	Creative Commons |
+| Nokome Bentley | Stencila |
+| Paul Shannon | eLife |
+| Ramin / Steinn | arXiv |
+| Rowan Cockett | CSF, Curvenote, Jupyter |
+| Taylor Campbell | Creative Commons |
+| Ted Roeder | bioRxiv/openRxiv |
+| Tom/Veronique	| PLOS |
+| Tracy Teal | openRxiv |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
