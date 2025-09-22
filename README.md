@@ -71,6 +71,10 @@ Participants confirmed for the meeting so far.
 | Tom/Veronique	| PLOS |
 | Tracy Teal | openRxiv |
 
+Some participants still pending. 
+
+Groups/people invited who aren't able to attend (we'll follow up with folks after the meeting): Stephan Van der Walt	(Jupyter), Chris Hartgerink (ResearchEquals), Gabe Stein (KnowledgeFutures), Chris Holdgraf / Greg Caporaso (MyST Steering Council)
+
 
 
 
