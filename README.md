@@ -54,6 +54,7 @@ Participants confirmed for the meeting so far.
 | Adam Hyde	| Coko/Katahi |
 | Agah Karakuzu	| NeuroLibre |
 | Carlos Scheidegger | Quarto/Posit |
+| Carol Willing | Willing Consulting |
 | Chris Wilkinson	| PreReview |
 | Franklin Koch	|	Curvenote, Jupyter |
 | Jason Priem | OpenAlex |
