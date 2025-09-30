@@ -15,7 +15,7 @@ This meeting is funded by the Meeting Fund of The Navigation Fund Open Science P
 **Dates:** November 6-8th  
 **Location:** San Diego, CA, USA
 
-Through the Navigation Fund support, travel and lodging for this meeting will be covered.
+Through the Navigation Fund support, travel and lodging for this meeting will be covered. See more on the [Travel and Logistics page](travel-and-logistics.md).
 
 ## Abstract
 Scientific content remains trapped in static formats that limit reuse, attribution, and machine readability, despite the availability of modern tooling that makes this possible and better matches how scientists conduct research. This initiative, led by openRxiv and Continuous Science Foundation, addresses this challenge through practical implementation rather than consensus-driven standardization. The project will convene developers of leading modular publishing tools—MyST, Quarto, Curvenote, and Kotahi—to create a working, federated reference architecture using real bioRxiv content and deploying through the newly created openRxiv labs. Through a facilitated virtual meeting followed by a 2.5-day in-person implementation sprint, participants will develop shared interoperability standards and demonstrate live reuse of scientific content. Following the successful ipynb model, the approach prioritizes working software over abstract frameworks. Key deliverables include a reference implementation demonstrating cross-platform interoperability, pilot deployments using bioRxiv articles, progress updates at the CZI Open Science Meeting, and adoption materials for publishers and platforms. This implementation-first approach represents a concrete step toward modular publishing that meets current needs while preparing for the LLM era.
