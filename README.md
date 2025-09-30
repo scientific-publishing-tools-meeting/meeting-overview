@@ -66,11 +66,12 @@ Participants confirmed for the meeting so far.
 | Monica Granados |	Creative Commons |
 | Nokome Bentley | Stencila |
 | Paul Shannon | eLife |
-| Ramin / Steinn | arXiv |
+| Ramin / Charles | arXiv |
+| Rose Reatherford | PLOS |
 | Rowan Cockett | CSF, Curvenote, Jupyter |
 | Taylor Campbell | Creative Commons |
 | Ted Roeder | bioRxiv/openRxiv |
-| Tom/Veronique	| PLOS |
+| Tom Scott | PLOS |
 | Tracy Teal | openRxiv |
 
 Some participants still pending. 
