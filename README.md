@@ -59,6 +59,7 @@ Participants confirmed for the meeting so far.
 | Franklin Koch	|	Curvenote, Jupyter |
 | Jason Priem | OpenAlex |
 | John Bohannon	| alphaXiv |
+| John Kaye | octopus |
 | Kevin-John Black | bioRxiv/openRxiv |
 | Matt Akamatsu	|	DiscourseGraphs |
 | Michael Markie | eLife |
