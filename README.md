@@ -74,6 +74,7 @@ Participants confirmed for the meeting so far.
 | Ted Roeder | bioRxiv/openRxiv |
 | Tom Scott | PLOS |
 | Tracy Teal | openRxiv |
+| Trevor Manz | AnyWidget, Marimo |
 
 Some participants still pending. 
 
