@@ -53,6 +53,7 @@ Participants confirmed for the meeting so far.
 | --- | --- |
 | Adam Hyde	| Coko/Katahi |
 | Agah Karakuzu	| NeuroLibre |
+| Anton Molina | b.next |
 | Carlos Scheidegger | Quarto/Posit |
 | Carol Willing | Willing Consulting |
 | Chris Wilkinson	| PreReview |
@@ -67,9 +68,10 @@ Participants confirmed for the meeting so far.
 | Monica Granados |	Creative Commons |
 | Nokome Bentley | Stencila |
 | Paul Shannon | eLife |
-| Ramin / Charles | arXiv |
+| Raj Palleti | alphaXiv |
 | Rose Reatherford | PLOS |
 | Rowan Cockett | CSF, Curvenote, Jupyter |
+| Steinn Sigurdsson | arXiv |
 | Taylor Campbell | Creative Commons |
 | Ted Roeder | bioRxiv/openRxiv |
 | Tom Scott | PLOS |
