@@ -45,7 +45,7 @@ Two and a half day, in person implementation meeting. This group  of developers 
 9-10:30am: Demo and discuss where we are  
 10:30-12pm: Plan next steps and areas where we’ll communicate with each other
 
-## Partcipants
+## Participants
 
 Participants confirmed for the meeting so far.
 
