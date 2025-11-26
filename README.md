@@ -51,7 +51,7 @@ Participants confirmed for the meeting so far.
 
 | Name | Organization | 
 | --- | --- |
-| Adam Hyde	| Coko/Katahi |
+| Adam Hyde	| Coko/Kotahi|
 | Agah Karakuzu	| NeuroLibre |
 | Anton Molina | b.next |
 | Carlos Scheidegger | Quarto/Posit |
