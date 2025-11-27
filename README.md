@@ -75,12 +75,12 @@ Participants confirmed for the meeting so far.
 | Taylor Campbell | Creative Commons |
 | Ted Roeder | bioRxiv/openRxiv |
 | Tom Scott | PLOS |
+| Tony Alves | HighWire |
 | Tracy Teal | openRxiv |
-| Trevor Manz | AnyWidget, Marimo |
 
 Some participants still pending. 
 
-Groups/people invited who aren't able to attend (we'll follow up with folks after the meeting): Stephan Van der Walt	(Jupyter), Chris Hartgerink (ResearchEquals), Gabe Stein (KnowledgeFutures), Chris Holdgraf / Greg Caporaso (MyST Steering Council)
+Groups/people invited who aren't able to attend (we'll follow up with folks after the meeting): Stephan Van der Walt	(Jupyter), Chris Hartgerink (ResearchEquals), Trevor Manz (AnyWidget, Marimo), Gabe Stein (KnowledgeFutures), Chris Holdgraf / Greg Caporaso (MyST Steering Council)
 
 
 
