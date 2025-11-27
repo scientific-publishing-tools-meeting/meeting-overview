@@ -78,8 +78,6 @@ Participants confirmed for the meeting so far.
 | Tony Alves | HighWire |
 | Tracy Teal | openRxiv |
 
-Some participants still pending. 
-
 Groups/people invited who aren't able to attend (we'll follow up with folks after the meeting): Stephan Van der Walt	(Jupyter), Chris Hartgerink (ResearchEquals), Trevor Manz (AnyWidget, Marimo), Gabe Stein (KnowledgeFutures), Chris Holdgraf / Greg Caporaso (MyST Steering Council)
 
 
